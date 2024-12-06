@@ -1,5 +1,6 @@
 # MapifyCraft
 **Map + Simplify + Craft**
+
 **MapifyCraft** is an innovative web-based tool designed to simplify map editing and GIS data management. It provides an intuitive and powerful platform for users to create, edit, and manage maps and spatial data seamlessly.
 
 ## 🚀 Features
