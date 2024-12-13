@@ -9,7 +9,7 @@
 - **Biên tập bản đồ**
 
 ## 📦 Tech Stack
-- **Frontend**: Next.js, Leaflet.js
+- **Frontend**: React.js, Leaflet.js
 - **Backend**: Python 
 - **Database**: PostgreSQL with PostGIS, MongoDB
 - **Deployment**: Docker
